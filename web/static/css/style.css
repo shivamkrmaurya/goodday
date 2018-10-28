@@ -1,3 +1,8 @@
 nav li a{
   text-decoration: none;
 }
+
+.about{
+  width: 100%;
+  text-align: center;
+}
